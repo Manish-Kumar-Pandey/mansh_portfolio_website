@@ -1,6 +1,22 @@
-div {
+.main-div {
   text-align: center;
+  background-color: rgb(103, 65, 160);
 }
+.mypic {
+  border-radius: 120px;
+  background: red;
+  padding: 2px;
+  width: 100px;
+  height: 100px;
+}
+/* #slideshow.mypic {
+  border-radius: 120px;
+  background: #73ad21;
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+} */
+
 .column {
   float: left;
   width: 25%;
